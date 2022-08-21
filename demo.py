@@ -3,7 +3,6 @@
 # @Author  : hertx
 # @Software: PyCharm
 # @File    : img.py
-import requests
 from hertx.interface.httpx import http, HTTP
 from hertx.utils import func_run_times
 
